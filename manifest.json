@@ -1,14 +1,9 @@
 {
-  "data": {
-    "supportedDataTypes": ["TABLE"],
-    "supportedStyleProperties": []
-  },
-  "id": "single-record-view",
-  "name": "Single Record Transposed View",
-  "description": "Displays a single record with attributes shown vertically and grouped.",
-  "iconPath": "",
-  "logoPath": "",
-  "company": "Custom",
-  "supportUrl": "",
-  "templates": []
+  "name": "Aligned Custom Table",
+  "description": "Custom table with aligned rows and null fallback.",
+  "author": "Your Name",
+  "visualization": "index.html",
+  "style": "style.css",
+  "script": "script.js",
+  "usesData": true
 }
